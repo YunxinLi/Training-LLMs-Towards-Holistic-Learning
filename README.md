@@ -26,3 +26,7 @@ By  achieving small decomposed objects, CenterLM finally absorb all information 
 ## Evaluation
 
 Experimental scenarios: Out-Of-Distribution Question Answering, Book Continuation, Strategy Reasoning, and Video Understanding.
+
+## Licence
+
+Anyone can do this work only for research, and you could send an email to me: liyunxin987@163.com. 
