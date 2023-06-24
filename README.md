@@ -20,7 +20,7 @@ Specifically, CenterLM first learns how to decompose the given task into several
 
 Afterwards, it will learn to gain the useful experience from knowledge source such as LLMs in different professional fields, calculator, or various modality processors, and update its own information seeking memory. 
 
-By  achieving small decomposed objects, CenterLM finally absorb all information to gain the final solution. 
+By achieving small decomposed objects, CenterLM finally absorb all information to gain the final solution. 
 
 
 ## Evaluation
